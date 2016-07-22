@@ -1,0 +1,93 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+RedirectMatch 301 /catalog/okna.html http://prodavecokon.ru/catalog
+RedirectMatch 301 /free/reklamaokon_v2/ http://po.lifeha.ru/free/reklamaokon_v2/
+RedirectMatch 301 /training_for_managers http://prodavecokon.ru/catalog
+
+RedirectMatch 301 /diagnostika-roznichnogo-biznesa-po-prodazhe-okon http://prodavecokon.ru/
+RedirectMatch 301 /uslugi http://prodavecokon.ru/
+RedirectMatch 301 /TRAINING_FOR_MANAGERS http://prodavecokon.ru/catalog
+RedirectMatch 301 /andrew-merkulov http://prodavecokon.ru/
+RedirectMatch 301 /blog/1st_crosssell_ways http://prodavecokon.ru/
+RedirectMatch 301 /blog/strategiya-razvitiya-organizatsii http://prodavecokon.ru/
+RedirectMatch 301 /seminar-personal-motivation-okna http://prodavecokon.ru/
+RedirectMatch 301 /free/urzashita/yurzashita-sl.html http://po.lifeha.ru/free/urzashita/yurzashita-sl.html
+RedirectMatch 301 /50klientov http://prodavecokon.ru/
+RedirectMatch 301 /video-play-problemi http://prodavecokon.ru/
+RedirectMatch 301 /catalog/okna/trening-bystrye-dengi-v-okonnom-biznese.html http://po.lifeha.ru/catalog/okna/trening-bystrye-dengi-v-okonnom-biznese.html
+RedirectMatch 301 /podarochnyi-sertifikat-na-okna-na-5000-rublei http://prodavecokon.ru/
+RedirectMatch 301 /catalog/okna/faststart-okna.html http://po.lifeha.ru/catalog/okna/faststart-okna.html
+RedirectMatch 301 /trening-bystrye-dengi-v-okonnom-biznese http://prodavecokon.ru/
+RedirectMatch 301 /training_for_managers_material http://prodavecokon.ru/
+RedirectMatch 301 /biznesvkorobke http://prodavecokon.ru/
+RedirectMatch 301 /blog/kak-zarabatyvat-na-prodazhe-okon http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/001-voronka-prodaj http://prodavecokon.ru/
+RedirectMatch 301 /blog/obrantaya-svyaz-s-klientom http://prodavecokon.ru/
+RedirectMatch 301 /catalog/okna/yurzashita-sl.html http://po.lifeha.ru/catalog/okna/yurzashita-sl.html
+RedirectMatch 301 /training-extreme-creating-web-sales http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/006-skolko-stoit http://prodavecokon.ru/
+RedirectMatch 301 /free/reklamaokon_v2/?amp;utm_content=oknakvadrat_free http://prodavecokon.ru/
+RedirectMatch 301 /user http://prodavecokon.ru/
+RedirectMatch 301 /uvod-zakazov  http://prodavecokon.ru/
+RedirectMatch 301 /autopilotbus2-data-day10 http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/002-my-money http://prodavecokon.ru/
+RedirectMatch 301 /blog/plastikovie-okna-tenderi-p2 http://prodavecokon.ru/
+RedirectMatch 301 /seminar_okonnaya_voronka_prodaj_2 http://prodavecokon.ru/
+RedirectMatch 301 /biznes-okna-2014 http://prodavecokon.ru/
+RedirectMatch 301 /catalog/okna/seminar-pribylnyi-okonnyi-biznes-za-polgoda.html http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/001-voronka-prodaj&smartemail=briagroupmilano@gmail.com&smartname=Friend http://prodavecokon.ru/
+RedirectMatch 301 /chem-zanyat-menedzherov-po-prodazham-zimoi http://prodavecokon.ru/
+RedirectMatch 301 /autopilotbus2-data-day9 http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/002-my-money&smartemail=briagroupmilano@gmail.com&smartname=Friend http://prodavecokon.ru/
+RedirectMatch 301 /motivaciya-gei-parad http://prodavecokon.ru/
+RedirectMatch 301 /realnyi-primer-chto-budet-esli-vlozhit-kuchu-deneg-v-reklamu-okon http://prodavecokon.ru/
+RedirectMatch 301 /seminar-pribylnyi-okonnyi-biznes-za-polgoda http://prodavecokon.ru/
+RedirectMatch 301 /autobusiness1 http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/003-doprodaji http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/003-doprodaji&smartemail=briagroupmilano@gmail.com&smartname=Friend http://prodavecokon.ru/
+RedirectMatch 301 /prodayushchii-chemodan-zamershchika-ili-prodazhi-bez-prodazh http://prodavecokon.ru/
+RedirectMatch 301 /sistema-reklama-okon-pod-kluch http://prodavecokon.ru/
+RedirectMatch 301 /training_prodagi_okon http://prodavecokon.ru/
+RedirectMatch 301 /5kanalov-dilerov http://prodavecokon.ru/
+RedirectMatch 301 /blog/10-veshchei-v-okonnom-biznese-kotorye-nelzya-peredavat-drugim-v-samom-nachale-razvitiya http://prodavecokon.ru/
+RedirectMatch 301 /blog/ot-chego-zavisit-effektivnost-reklamy-i-konversiya http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/004-dogovora http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/005-diagnostica http://prodavecokon.ru/
+RedirectMatch 301 /legalno-povisit-prodaji http://prodavecokon.ru/
+RedirectMatch 301 /autobusiness2 http://prodavecokon.ru/
+RedirectMatch 301 /biznes-keis-prodaji-okon-upali http://prodavecokon.ru/
+RedirectMatch 301 /biznes-keisi http://prodavecokon.ru/
+RedirectMatch 301 /blog/formula-okonnykh-prodazh-kak-instrument-organizatsii-biznesa http://prodavecokon.ru/
+RedirectMatch 301 /prokachat-menedjerov http://prodavecokon.ru/
+RedirectMatch 301 /seminar-10-zapovedei-okonshika http://prodavecokon.ru/
+RedirectMatch 301 /seminar-zhestkie-holodnye-zvonki http://prodavecokon.ru/
+RedirectMatch 301 /autobusiness2-data http://prodavecokon.ru/
+RedirectMatch 301 /blog/3-istochnika-klientov-po-rekomendatsi http://prodavecokon.ru/i
+RedirectMatch 301 /chto-delat-esli-konkurenty-otkryli-ofis-po-prodazhe-okon-ryadom-s-vami http://prodavecokon.ru/
+RedirectMatch 301 /fastmoney-okna-tehnika-tri-da http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-biznes-okna?p=povysit-prodazhi-okon http://prodavecokon.ru/
+RedirectMatch 301 /kak-pravilno-otvechat-na-vopros-skolko-budet-stoit-okno http://prodavecokon.ru/
+RedirectMatch 301 /reklama-okon-100per-day3-prodaushaya-reklama-okon http://prodavecokon.ru/
+RedirectMatch 301 /bistroe-razvitie-biznesa http://prodavecokon.ru/
+RedirectMatch 301 /chto-pisat-v-reklame http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/001-voronka-prodaj&smartemail=3z1@mail.ru&smartname=Виталий http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-prodaji?p=free-prodavecokon-prodaji/007-rekomendacii&smartemail=Price-okna@mail.ru&smartname=Friend http://prodavecokon.ru/
+RedirectMatch 301 /max-udobst-pri-pokupke http://prodavecokon.ru/
+RedirectMatch 301 /ne-dopustite-etoi-tipovoi-oshibki-na-svoem-okonnom-saite http://prodavecokon.ru/
+RedirectMatch 301 /reklama-okon-dva-byudjeta http://prodavecokon.ru/
+RedirectMatch 301 /sotrudniki-obhodyatsya-doroje http://prodavecokon.ru/
+RedirectMatch 301 /vipclub http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-biznes-okna  http://prodavecokon.ru/
+RedirectMatch 301 /articles_sitemap  http://prodavecokon.ru/
+RedirectMatch 301 /free-prodavecokon-biznes-okna?p=povysit-prodazhi-okon  http://prodavecokon.ru/
